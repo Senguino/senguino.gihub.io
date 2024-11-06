@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/husker-volleyball-sweeps-wisconsin/index.html",
+    "href": "posts/husker-volleyball-sweeps-wisconsin/index.html",
+    "title": "Huskers dominate Wisconsin in the Field House",
+    "section": "",
+    "text": "Hello world, I am alive and real. I AM A REAL BOY!\n\n\nCode\nlibrary(tidyverse)\n\n\n-- Attaching core tidyverse packages ------------------------ tidyverse 2.0.0 --\nv dplyr     1.1.2     v readr     2.1.4\nv forcats   1.0.0     v stringr   1.5.1\nv ggplot2   3.5.1     v tibble    3.2.1\nv lubridate 1.9.3     v tidyr     1.3.0\nv purrr     1.0.1     \n-- Conflicts ------------------------------------------ tidyverse_conflicts() --\nx dplyr::filter() masks stats::filter()\nx dplyr::lag()    masks stats::lag()\ni Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "350SportsBlog",
+    "section": "",
+    "text": "Huskers dominate Wisconsin in the Field House\n\n\n\n\n\n\nncaa\n\n\nvolleyball\n\n\nhuskers\n\n\n\n\n\n\n\n\n\nNov 5, 2024\n\n\nWill James\n\n\n\n\n\n\nNo matching items"
+  }
+]
